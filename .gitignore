@@ -56,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Ignore MNIST files and logs
+/neural-network/MNIST_data/
+/neural-network/tb_logs/
+/tf-source/
+/tf-hub/
